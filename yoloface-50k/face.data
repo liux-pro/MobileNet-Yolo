@@ -1,5 +1,5 @@
 classes= 1
-train  = /kaggle/working/YOLO-FaceV2/train.txt
-valid  = /kaggle/working/YOLO-FaceV2/val.txt
+train  = /kaggle/working/train.txt
+valid  = /kaggle/working/val.txt
 names = label.names
 backup = /model
